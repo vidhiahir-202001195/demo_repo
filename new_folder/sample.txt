@@ -1,1 +1,2 @@
 this is sample file in a folder
+this is the line added to tect file
